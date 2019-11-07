@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53787" started-at="2019-11-07T01:01:51Z" finished-at="2019-11-07T01:02:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53787" started-at="2019-11-07T01:01:51Z" finished-at="2019-11-07T01:02:45Z">
+      <class name="com.server.MainTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.server.MainTest@1e88b3c]" name="setUp" is-config="true" duration-ms="15193" started-at="2019-11-07T01:01:51Z" finished-at="2019-11-07T01:02:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TestRun()[pri:0, instance:com.server.MainTest@1e88b3c]" name="TestRun" duration-ms="37571" started-at="2019-11-07T01:02:06Z" finished-at="2019-11-07T01:02:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestRun -->
+        <test-method status="PASS" signature="teadDown()[pri:0, instance:com.server.MainTest@1e88b3c]" name="teadDown" is-config="true" duration-ms="920" started-at="2019-11-07T01:02:44Z" finished-at="2019-11-07T01:02:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teadDown -->
+      </class> <!-- com.server.MainTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
